@@ -1,3 +1,7 @@
+```
+本篇日志参考网上 http://zoufeng.net/2015/08/09/compiled-php-extension-in-linux/  
+```
+
 ## 第一步  找到源码包
 
 以编译fileinfo扩展为例（注意这是php内置的扩展，如果你编译的是第三方扩展请自行到官网下载源码） 
