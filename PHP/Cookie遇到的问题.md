@@ -12,6 +12,9 @@
 
 然后就用 PHPstorm 开启debug 模式调试了 
 
+发现原来是 系统某处配置 cookie 的域名 导致我在本地环境下没法存储cookie 
+
+
 #### 插播一下 setcookie的用法
 
 ```php
