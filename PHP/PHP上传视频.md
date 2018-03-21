@@ -28,7 +28,7 @@
  
  为什么会这样呢。再次上传视频并抓包
  
-  ![抓包图片](杂项/img/抓包图片.png)
+  ![抓包图片](杂项/img/zbtp.png)
   
   发现了 Content-Type : application/octet-stream
   
