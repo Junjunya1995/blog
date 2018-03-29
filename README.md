@@ -22,4 +22,3 @@
 * [Java](Java)
   * [JavaWeb原理随笔](Java/JavaWeb原理随笔.md)
   
- ![测试一下](杂项/a.png)
