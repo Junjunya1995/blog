@@ -17,7 +17,8 @@
   * [Vue](前端/Vue)
     * [vue.js与jq插件混用出现的问题.md](前端/Vue/vue.js与jq插件混用出现的问题.md)
   * [js正则替换代码.md](前端/js正则替换代码.md) 
-   
+  * [短小的js评级代码.md](前端/短小的js评级代码.md) 
+ 
 * [Docker](Docker)
 
 * [Java](Java)
