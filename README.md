@@ -8,6 +8,7 @@
   * [PHP-Xdebug调试.md](PHP/PHP-Xdebug调试.md)
   * [PHP在linux下编译扩展.md](PHP/PHP在linux下编译扩展.md)
   * [PHP上传视频.md](PHP/PHP上传视频.md)
+  * [yield迭代简介.md](PHP/yield迭代简介.md)
 
 * [Mysql](Mysql)
   * [索引.md](Mysql/索引.md)
