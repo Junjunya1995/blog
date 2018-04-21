@@ -26,5 +26,6 @@
 * [随笔](随笔)
   * [进程、线程随笔.md](随笔/进程、线程随笔.md)  
   * [JavaWeb原理随笔.md](随笔/JavaWeb原理随笔.md)
+  * [记录下socket.io的使用.md](随笔/记录下socket.io的使用.md)
   
 * [leetcode目录.md](leetcode/目录.md)
