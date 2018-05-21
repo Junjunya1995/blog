@@ -18,9 +18,12 @@
   * [Vue](前端/Vue)
     * [vue.js与jq插件混用出现的问题.md](前端/Vue/vue.js与jq插件混用出现的问题.md)
   * [js正则替换代码.md](前端/js正则替换代码.md) 
+  * [js正则模式修饰符.md](前端/js正则模式修饰符.md)
   * [短小的js评级代码.md](前端/短小的js评级代码.md) 
  
 * [Docker](Docker)
+* [Nginx](nginx)
+    * [nginx支持socket.md](nginx/nginx支持socket.md)
 
   
 * [随笔](随笔)
