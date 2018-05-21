@@ -20,7 +20,7 @@
 ```javascript
 <script>
 var tpl  = document.getElementById('tpl').innerHTML
-var html = tpl.replace(/\[(\w*)\]/igm, function(node, key) { 
+var html = tpl.replace(/\[(\w*)\]/gm, function(node, key) { 
     return { 
         name : 'OK啦'
     }[key]
@@ -28,3 +28,5 @@ var html = tpl.replace(/\[(\w*)\]/igm, function(node, key) {
 document.getElementById('content').innerHTML = html
 </script>
 ```
+
+[js正则模式修饰符详解](js正则模式修饰符.md)
