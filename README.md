@@ -32,3 +32,5 @@
   * [记录下socket.io的使用.md](随笔/记录下socket.io的使用.md)
   
 * [leetcode目录.md](leetcode/目录.md)
+
+* [简历](简历.md)
