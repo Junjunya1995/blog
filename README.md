@@ -12,19 +12,19 @@
   * [yield迭代简介.md](PHP/yield迭代简介.md)
 
 * [Mysql](Mysql)
-  * [索引.md](Mysql/索引.md)
-  * [explain详解.md](Mysql/explain详解.md)
+  * [索引](Mysql/索引.md)
+  * [explain详解](Mysql/explain详解.md)
   
 * [前端](前端)
   * [Vue](前端/Vue)
-    * [vue.js与jq插件混用出现的问题.md](前端/Vue/vue.js与jq插件混用出现的问题.md)
-  * [js正则替换代码.md](前端/js正则替换代码.md) 
-  * [js正则模式修饰符.md](前端/js正则模式修饰符.md)
-  * [短小的js评级代码.md](前端/短小的js评级代码.md) 
+    * [vue.js与jq插件混用出现的问题](前端/Vue/vue.js与jq插件混用出现的问题.md)
+  * [js正则替换代码](前端/js正则替换代码.md) 
+  * [js正则模式修饰符](前端/js正则模式修饰符.md)
+  * [短小的js评级代码](前端/短小的js评级代码.md) 
  
 * [Docker](Docker)
 * [Nginx](nginx)
-    * [nginx支持socket.md](nginx/nginx支持socket.md)
+    * [nginx支持socket](nginx/nginx支持socket.md)
 * [网络编程](网络编程)
   * [tcp_server_linux](网络编程/tcp_server_linux.md)
   * [tcp_client_linux](网络编程/tcp_client_linux.md)
@@ -33,10 +33,10 @@
 
   
 * [随笔](随笔)
-  * [进程、线程随笔.md](随笔/进程、线程随笔.md)  
-  * [JavaWeb原理随笔.md](随笔/JavaWeb原理随笔.md)
-  * [记录下socket.io的使用.md](随笔/记录下socket.io的使用.md)
+  * [进程、线程随笔](随笔/进程、线程随笔.md)  
+  * [JavaWeb原理随笔](随笔/JavaWeb原理随笔.md)
+  * [记录下socket.io的使用](随笔/记录下socket.io的使用.md)
   
-* [leetcode目录.md](leetcode/目录.md)
+* [leetcode目录](leetcode/目录.md)
 
 * [简历](简历.md)
