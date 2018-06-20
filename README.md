@@ -12,7 +12,8 @@
   * [yield迭代简介.md](PHP/yield迭代简介.md)
 
 * [Mysql](Mysql)
-  * [索引](Mysql/索引.md)
+  * [索引简介](Mysql/索引简介.md)
+  * [多列索引生效条件](Mysql/多列索引生效条件.md)
   * [explain详解](Mysql/explain详解.md)
   
 * [前端](前端)
