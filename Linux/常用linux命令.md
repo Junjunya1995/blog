@@ -17,3 +17,8 @@
     firewall-cmd --zone=public --add-port=80/tcp --permanent
     firewall-cmd --reload   //刷新
      
+
+    解压
+	tar –xvf file.tar //解压 tar包
+	tar -xzvf file.tar.gz //解压tar.gz
+	tar -xjvf file.tar.bz2   //解压 tar.bz2tar –xZvf file.tar.Z //解压tar.Z
