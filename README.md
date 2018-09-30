@@ -24,7 +24,9 @@
   * [js正则模式修饰符](前端/js正则模式修饰符.md)
   * [短小的js评级代码](前端/短小的js评级代码.md) 
  
-* [Docker](Docker)
+* [Linux](Linux)
+  * [常用linux命令](Linux/常用linux命令.md)
+  * [快速定位nginx的log](Linux/快速定位nginx的log.md)
 * [Nginx](nginx)
     * [nginx支持socket](nginx/nginx支持socket.md)
 * [网络编程](网络编程)
