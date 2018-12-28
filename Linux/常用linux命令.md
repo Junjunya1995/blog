@@ -6,6 +6,9 @@
     #awk 统计数量 并排序
     awk '{print $1}' access.log |sort | uniq -c | sort -rn | head -10
     
+    #awk 统计响应时间长的语句
+    awk -F "\"" '{print $10,$2}' api.teacher.fudaodashi.com-access.log | sort
+    
     ---------------------------------------------------
     
     #centos 最小化安装的时候不带tab补全
