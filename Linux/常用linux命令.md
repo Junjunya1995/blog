@@ -26,5 +26,9 @@
 	tar -xzvf file.tar.gz //解压tar.gz
 	tar -xjvf file.tar.bz2   //解压 tar.bz2tar –xZvf file.tar.Z //解压tar.Z
 	
-    //
+    //自锁
     */1 * * * * /usr/bin/flock  -xn /var/run/test.lock -c '/home/test.sh'
+    
+    
+    //快速进入docker
+     docker exec -it  `docker ps | grep xuexi-go | awk '{print $1}'` /bin/bash
