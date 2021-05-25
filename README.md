@@ -18,7 +18,8 @@
   * [索引简介](Mysql/索引简介.md)
   * [多列索引生效条件](Mysql/多列索引生效条件.md)
   * [explain详解](Mysql/explain详解.md)
-  
+* [redis](redis)
+  * [01](redis/01.md)  
 * [前端](前端)
   * [Vue](前端/Vue)
     * [vue.js与jq插件混用出现的问题](前端/Vue/vue.js与jq插件混用出现的问题.md)
